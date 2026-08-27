@@ -1,0 +1,14 @@
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\bin\Debug\net10.0\07operadores_aritimeticos.exe
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\bin\Debug\net10.0\07operadores_aritimeticos.deps.json
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\bin\Debug\net10.0\07operadores_aritimeticos.runtimeconfig.json
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\bin\Debug\net10.0\07operadores_aritimeticos.dll
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\bin\Debug\net10.0\07operadores_aritimeticos.pdb
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\obj\Debug\net10.0\07operadores_aritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\obj\Debug\net10.0\07operadores_aritimeticos.AssemblyInfoInputs.cache
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\obj\Debug\net10.0\07operadores_aritimeticos.AssemblyInfo.cs
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\obj\Debug\net10.0\07operadores_aritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\obj\Debug\net10.0\07operadores_aritimeticos.dll
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\obj\Debug\net10.0\refint\07operadores_aritimeticos.dll
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\obj\Debug\net10.0\07operadores_aritimeticos.pdb
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\obj\Debug\net10.0\07operadores_aritimeticos.genruntimeconfig.cache
+C:\Users\lidia\Documents\logica_em_c#\07operadores_aritimeticos\obj\Debug\net10.0\ref\07operadores_aritimeticos.dll
