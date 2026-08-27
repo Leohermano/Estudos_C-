@@ -1,0 +1,14 @@
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\obj\Debug\net10.0\09operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\obj\Debug\net10.0\09operadores_logicos.AssemblyInfoInputs.cache
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\obj\Debug\net10.0\09operadores_logicos.AssemblyInfo.cs
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\obj\Debug\net10.0\09operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\bin\Debug\net10.0\09operadores_logicos.exe
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\bin\Debug\net10.0\09operadores_logicos.deps.json
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\bin\Debug\net10.0\09operadores_logicos.runtimeconfig.json
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\bin\Debug\net10.0\09operadores_logicos.dll
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\bin\Debug\net10.0\09operadores_logicos.pdb
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\obj\Debug\net10.0\09operadores_logicos.dll
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\obj\Debug\net10.0\refint\09operadores_logicos.dll
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\obj\Debug\net10.0\09operadores_logicos.pdb
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\obj\Debug\net10.0\09operadores_logicos.genruntimeconfig.cache
+C:\Users\lidia\Documents\logica_em_c#\09operadores_logicos\obj\Debug\net10.0\ref\09operadores_logicos.dll

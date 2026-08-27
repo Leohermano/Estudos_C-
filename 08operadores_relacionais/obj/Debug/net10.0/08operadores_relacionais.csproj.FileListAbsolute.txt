@@ -1,0 +1,14 @@
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\bin\Debug\net10.0\08operadores_relacionais.exe
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\bin\Debug\net10.0\08operadores_relacionais.deps.json
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\bin\Debug\net10.0\08operadores_relacionais.runtimeconfig.json
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\bin\Debug\net10.0\08operadores_relacionais.dll
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\bin\Debug\net10.0\08operadores_relacionais.pdb
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\obj\Debug\net10.0\08operadores_relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\obj\Debug\net10.0\08operadores_relacionais.AssemblyInfoInputs.cache
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\obj\Debug\net10.0\08operadores_relacionais.AssemblyInfo.cs
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\obj\Debug\net10.0\08operadores_relacionais.csproj.CoreCompileInputs.cache
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\obj\Debug\net10.0\08operadores_relacionais.dll
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\obj\Debug\net10.0\refint\08operadores_relacionais.dll
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\obj\Debug\net10.0\08operadores_relacionais.pdb
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\obj\Debug\net10.0\08operadores_relacionais.genruntimeconfig.cache
+C:\Users\lidia\Documents\logica_em_c#\08operadores_relacionais\obj\Debug\net10.0\ref\08operadores_relacionais.dll
