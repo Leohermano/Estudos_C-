@@ -1,0 +1,14 @@
+C:\Users\lidia\Documents\logica_em_c#\01conceito\bin\Debug\net10.0\01conceito.exe
+C:\Users\lidia\Documents\logica_em_c#\01conceito\bin\Debug\net10.0\01conceito.deps.json
+C:\Users\lidia\Documents\logica_em_c#\01conceito\bin\Debug\net10.0\01conceito.runtimeconfig.json
+C:\Users\lidia\Documents\logica_em_c#\01conceito\bin\Debug\net10.0\01conceito.dll
+C:\Users\lidia\Documents\logica_em_c#\01conceito\bin\Debug\net10.0\01conceito.pdb
+C:\Users\lidia\Documents\logica_em_c#\01conceito\obj\Debug\net10.0\01conceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\Documents\logica_em_c#\01conceito\obj\Debug\net10.0\01conceito.AssemblyInfoInputs.cache
+C:\Users\lidia\Documents\logica_em_c#\01conceito\obj\Debug\net10.0\01conceito.AssemblyInfo.cs
+C:\Users\lidia\Documents\logica_em_c#\01conceito\obj\Debug\net10.0\01conceito.csproj.CoreCompileInputs.cache
+C:\Users\lidia\Documents\logica_em_c#\01conceito\obj\Debug\net10.0\01conceito.dll
+C:\Users\lidia\Documents\logica_em_c#\01conceito\obj\Debug\net10.0\refint\01conceito.dll
+C:\Users\lidia\Documents\logica_em_c#\01conceito\obj\Debug\net10.0\01conceito.pdb
+C:\Users\lidia\Documents\logica_em_c#\01conceito\obj\Debug\net10.0\01conceito.genruntimeconfig.cache
+C:\Users\lidia\Documents\logica_em_c#\01conceito\obj\Debug\net10.0\ref\01conceito.dll

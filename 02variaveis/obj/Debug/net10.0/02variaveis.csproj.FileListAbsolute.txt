@@ -1,0 +1,14 @@
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\bin\Debug\net10.0\02variaveis.exe
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\bin\Debug\net10.0\02variaveis.deps.json
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\bin\Debug\net10.0\02variaveis.runtimeconfig.json
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\bin\Debug\net10.0\02variaveis.dll
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\bin\Debug\net10.0\02variaveis.pdb
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\obj\Debug\net10.0\02variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\obj\Debug\net10.0\02variaveis.AssemblyInfoInputs.cache
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\obj\Debug\net10.0\02variaveis.AssemblyInfo.cs
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\obj\Debug\net10.0\02variaveis.csproj.CoreCompileInputs.cache
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\obj\Debug\net10.0\02variaveis.dll
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\obj\Debug\net10.0\refint\02variaveis.dll
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\obj\Debug\net10.0\02variaveis.pdb
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\obj\Debug\net10.0\02variaveis.genruntimeconfig.cache
+C:\Users\lidia\Documents\logica_em_c#\02variaveis\obj\Debug\net10.0\ref\02variaveis.dll
